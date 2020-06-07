@@ -96,8 +96,16 @@ p{
   width: 15%;
   margin: 20px 20px 50px;
 }
-
 /*carousal*/
 .carousel-item{
   padding: 7% 15%;
+}
+
+/*Pricing section*/
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding: 3% 2%;
 }
