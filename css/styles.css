@@ -145,7 +145,7 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
-
+/*mobile view*/
 @media (max-width:1028px) {
   #title {
     text-align: center;
